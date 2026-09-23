@@ -10,4 +10,4 @@ Both the Kindle e-book and paperback/hardcover versions can be bought from [Amaz
 
 <h2>Cite this Work</h2>
 
-Loi, C. L. Introduction to Ordinary Differential Equations with Scientific Applications. 2026. ISBN: 9784991508011.
+Loi, C. L. Introduction to Ordinary Differential Equations with Scientific Applications. 2026. ISBN: 9784991508004.

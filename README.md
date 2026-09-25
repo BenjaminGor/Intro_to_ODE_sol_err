@@ -2,6 +2,8 @@
 
 This is the repository for hosting the [sample chapters](https://github.com/BenjaminGor/Intro_to_ODE_sol_err/blob/main/sample_chapters.pdf), [solution manual](https://github.com/BenjaminGor/Intro_to_ODE_sol_err/blob/main/ODE_solution_manual.pdf), and errata for the book <i>Introduction to Ordinary Differential Equations with Scientific Applications</i> by Benjamin C. L. Loi.
 
+Please report any possible typos or problems by opening an issue!
+
 ![ODE Book Cover.jpg](https://github.com/BenjaminGor/Intro_to_ODE_sol_err/blob/main/ODE%20Book%20Cover.jpg)
 
 <h2>Purchase Link</h2>

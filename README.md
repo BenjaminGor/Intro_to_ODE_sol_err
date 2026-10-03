@@ -9,16 +9,54 @@ Please report any possible typos or problems by opening an issue!
 <h2>Table of Contents</h2>
 
 1. Basic First-order Ordinary Differential Equations
+    - Separable ODEs
+    - First-order Linear ODEs
+    - Exact ODEs
+    - Solution Curves Plotting
 2. Additional First-order Ordinary Differential Equations
+    - Zero-homogeneous and Isobaric Equations
+    - Bernoulli and Riccati ODEs
+    - Higher-degree First-order ODEs
+    - Existence and Uniqueness of Solution
 3. Basic Second-order Ordinary Differential Equations
+    - Wronskian, Linear Independence, Complementary vs Particular Solutions
+    - Second-order Constant-coefficient Homogeneous ODEs
+    - Method of Undetermined Coefficients, Variation of Parameters
 4. Additional Second-order Ordinary Differential Equations
+    - Euler and Canonical Form
+    - Reduction of Order
+    - Boundary Value Problems
 5. Series Solution
+    - Ordinary Points, Series Solution, and Recurrence Relations
+    - Oscillation and Airy Equation
 6. Frobenius Solution
+    - Regular Singular Points, Frobenius Series
+    - Hypergeometric Equation/Function (+ Confluent)
 7. Laplace Transform
+    - Table of Laplace Transforms
+    - Heaviside Step/Dirac Delta Functions
+    - Shifting Theorems, Convolution Theorem
+    - Solving ODEs by Laplace Transform
 8. Sturm-Liouville Theory
+    - Sturm-Liouville Form, Hermiticity
+    - Spectral Theorem, Fourier Series
+    - Green's Function
 9. Special Functions
+    - Legendre Equation/Polynomials
+    - Chebyshev Equation/Polynomials
+    - Hermite Equation/Polynomials
+    - Laguerre Equation/Polynomials
+    - Bessel (and Modified Bessel) Equation/Functions
 10. Introduction to Partial Differential Equations
+    - Boundary Conditions
+    - Heat Equation
+    - Laplace Equation
+    - Wave Equation
+    - (in different coordinate systems)
 11. Further Topics
+    - Matrix ODEs
+    - Numerical Integration Methods
+    - WKB Method
 
 <h2>Purchase Link</h2>
 

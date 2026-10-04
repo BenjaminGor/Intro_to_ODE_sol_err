@@ -61,6 +61,7 @@ Please report any possible typos or problems by opening an issue!
 <h2>Purchase Link</h2>
 
 Both the Kindle e-book and paperback/hardcover versions can be bought from [Amazon](https://www.amazon.com/dp/4991508010).
+As an alternative, the e-book format is also available at [Google Books](https://books.google.com/books?id=6LwSEgAAQBAJ).
 
 <h2>Cite this Work</h2>
 

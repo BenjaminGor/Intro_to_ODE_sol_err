@@ -11,7 +11,7 @@ Please report any possible typos or problems by opening an issue!
 1. Basic First-order Ordinary Differential Equations
     - Separable ODEs
     - First-order Linear ODEs
-    - Exact ODEs
+    - Exact First-order ODEs
     - Solution Curves Plotting
 2. Additional First-order Ordinary Differential Equations
     - Zero-homogeneous and Isobaric Equations

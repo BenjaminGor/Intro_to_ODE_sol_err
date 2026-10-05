@@ -62,6 +62,7 @@ Please report any possible typos or problems by opening an issue!
 
 Both the Kindle e-book and paperback/hardcover versions can be bought from [Amazon](https://www.amazon.com/dp/4991508010).
 As an alternative, the e-book format is also available at [Google Books](https://books.google.com/books?id=6LwSEgAAQBAJ).
+Instructors may request a free copy by sending an email to chl.mathread.joy (at) gmail.com.
 
 <h2>Cite this Work</h2>
 
